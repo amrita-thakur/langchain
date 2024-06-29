@@ -97,7 +97,6 @@ def create_conversational_chain(language_model: ChatGroq, retriever: FAISS):
     If you don't know the answer, just say that you don't know. \
 
     {context}.
-    Do not include, "According to the context" in the final output
     """
 
     qa_prompt = ChatPromptTemplate.from_messages(
