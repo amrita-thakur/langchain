@@ -25,4 +25,4 @@ LangChain is a framework that integrates retrieval and generation models seamles
 
 2. **Usage**: Explore the projects in respective folders to see how RAG applications are implemented using LangChain. Run scripts or notebooks to understand different use cases.
 
-3. **Documentation**: Refer to `readme` for detailed guides on specific projects.
+3. **Documentation**: Refer to `README.md` of respective projects for detailed guides on a specific project.
